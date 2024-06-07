@@ -20,8 +20,6 @@
 	
 	<link rel="stylesheet" href="../resources/bootstrap/css/bootstrap.min.css"  type="text/css"> 
     
-    
-    
     <script type="text/javascript" src="../resources/js/jquery-3.2.1.js"></script>
     <script type="text/javascript" 	src="../resources/js/affiliation/new-affi-request-approval.js"></script>
 	<script src="../resources/bootstrap/js/bootstrap.min.js"></script>
