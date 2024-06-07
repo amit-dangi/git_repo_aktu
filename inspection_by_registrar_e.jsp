@@ -183,6 +183,7 @@
 									<div class="input-group-addon">
 										<i class="fa fa-calendar"></i>
 									</div>
+									
 									<input readonly="readonly" data-field-id=" " type="text"
 										class="form-control datecalendar from_date" id="XTODATE"
 										name="XTODATE" placeholder="DD/MM/YYYY" value="">
