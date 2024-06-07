@@ -271,7 +271,7 @@
 						<div class="row">
 							<label class="col-sm-2 col-form-label text-right required-field"  for="">Feedback by Registrar</label>
 							  <div class="col-sm-10">
-							<textarea class="" id="remarks" value="" style="height: 80px;width: 100%;resize:vertical;max-height:120px;" maxlength="299"></textarea>
+							<textarea class="" id="remarks" value="" style="height: 80px;width: 100%;resize:vertical;max-height:120px;" maxlength="299" placeholder="Kindly enter Feedback"></textarea>
 						     </div>
 					   </div>
 				   </div>
@@ -281,7 +281,7 @@
 						<div class="row">
 							<label class="col-sm-2 col-form-label text-right required-field" for="">Remarks</label>
 							  <div class="col-sm-10">
-								<textarea class="" id="Recommendation" value="" style="height: 80px;width: 100%; resize:vertical;max-height:120px;" maxlength="299"></textarea>
+								<textarea class="" id="Recommendation" value="" style="height: 80px;width: 100%; resize:vertical;max-height:120px;" maxlength="299" placeholder="Kindly enter Remarks"></textarea>
 						     </div>
 					   </div>
 				   </div>
