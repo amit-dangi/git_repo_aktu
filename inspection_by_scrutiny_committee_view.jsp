@@ -1591,7 +1591,7 @@ if(IscheckBox.get("is_adm").equals("Y")){
 										<label for="" class="col-form-label "><%=General.checknull(facmodel.getDesignation())%></label>
 									</td>
 									<td style="text-align:left; width:10%;">
-										<label for="" class="col-form-label "><%=General.checknull(facmodel.getIs_director())%></label>
+										<label for="" class="col-form-label "><%=General.checknull(facmodel.getIs_director().equals("Y")?"Yes":"No")%></label>
 									</td>
 									  <td style="text-align:left; width:10%;">
 										<label for="" class="col-form-label "><%=General.checknull(facmodel.getCourse_name())%></label>
@@ -1605,7 +1605,7 @@ if(IscheckBox.get("is_adm").equals("Y")){
 									</td>
 									
 									<td style="text-align:left; width:10%">
-		        					<a style="word-break: break-all;" href="../downloadfile?filename=<%=facmodel.getFile_name()%>&folderName=/Faculty_Photo/<%=user_id%>&fstatus=dwnFileFrmDir">
+		        					<a style="word-break: break-all;" href="../downloadfile?filename=<%=facmodel.getFile_name()%>&folderName=/AKTU_AFFILIATION_PORTAL/FACULTY_PHOTO/<%=user_id%>&fstatus=dwnFileFrmDir">
 		        					<strong><u><%=facmodel.getFile_name() %></u></strong>
 									</a></td>
 									<%-- <td style="text-align:center; width:20%;">

@@ -197,7 +197,7 @@
 										name="XTODATE" placeholder="DD/MM/YYYY" value="">
 								  </div>
 							</div>
-							<label class="col-sm-2 col-form-label required-field" for=""> Assigned To Date</label>
+							<label class="col-sm-2 col-form-label" for=""> Assigned To Date</label>
 							 <div class="col-sm-4">
 								<div class="input-group date" id="msg-XFROMDATE">
 									<div class="input-group-addon">

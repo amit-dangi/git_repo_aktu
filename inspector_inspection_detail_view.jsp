@@ -1603,7 +1603,7 @@ if(IscheckBox.get("is_adm").equals("Y")){
 									</td>
 									
 									<td style="text-align:left; width:10%">
-		        					<a style="word-break: break-all;" href="../downloadfile?filename=<%=facmodel.getFile_name()%>&folderName=/Faculty_Photo/<%=user_id%>&fstatus=dwnFileFrmDir">
+		        					<a style="word-break: break-all;" href="../downloadfile?filename=<%=facmodel.getFile_name()%>&folderName=/AKTU_AFFILIATION_PORTAL/FACULTY_PHOTO/<%=user_id%>&fstatus=dwnFileFrmDir">
 		        					<strong><u><%=facmodel.getFile_name() %></u></strong>
 									</a></td>
 									<td style="text-align:center; width:20%;">

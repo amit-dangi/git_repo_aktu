@@ -188,7 +188,7 @@
 										name="XTODATE" placeholder="DD/MM/YYYY" value="">
 								  </div>
 							</div>
-							<label class="col-sm-2 col-form-label required-field" for=""> Assigned To Date</label>
+							<label class="col-sm-2 col-form-label" for=""> Assigned To Date</label>
 							 <div class="col-sm-4">
 								<div class="input-group date" id="msg-XFROMDATE">
 									<div class="input-group-addon">
@@ -270,7 +270,7 @@
 						<div class="row">
 							<label class="col-sm-2 col-form-label text-right required-field"  for="">Government Body Feedback</label>
 							  <div class="col-sm-10">
-							<textarea class="" id="remarks" value="" style="height: 80px;width: 100%;resize:vertical;max-height:120px;" maxlength="299"></textarea>
+							<textarea class="" id="remarks" value="" style="height: 80px;width: 100%;resize:vertical;max-height:120px;" maxlength="299" placeholder="Kindly enter feedback"></textarea>
 						     </div>
 					   </div>
 				   </div>
@@ -280,7 +280,7 @@
 						<div class="row">
 							<label class="col-sm-2 col-form-label text-right required-field" for="">Remarks</label>
 							  <div class="col-sm-10">
-								<textarea class="" id="Recommendation" value="" style="height: 80px;width: 100%; resize:vertical;max-height:120px;" maxlength="299"></textarea>
+								<textarea class="" id="Recommendation" value="" style="height: 80px;width: 100%; resize:vertical;max-height:120px;" maxlength="299" placeholder="Kindly enter remarks"></textarea>
 						     </div>
 					   </div>
 				   </div>
